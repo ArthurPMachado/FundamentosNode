@@ -8,7 +8,7 @@
 		"airbnb-base"
 	],
 	"parserOptions": {
-		"ecmaVersion": 12,
+		"ecmaVersion": 12
 	},
 	"rules": {
 		"linebreak-style":"warn",
@@ -20,6 +20,6 @@
 		"max-len": "warn",
 		"camelcase": "off",
 		"import/prefer-default-export": "off",
-		"import/extensions": "off",
-	},
+		"import/extensions": "off"
+	}
 }
