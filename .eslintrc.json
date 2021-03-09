@@ -19,6 +19,7 @@
 		"radix": "warn",
 		"max-len": "warn",
 		"camelcase": "off",
+		"no-shadow": "off",
 		"import/prefer-default-export": "off",
 		"import/extensions": "off"
 	}
